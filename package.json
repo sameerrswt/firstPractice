@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "0.1.0",
+  "description": "Dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerrswt/firstPractice.git"
+  },
+  "keywords": [
+    "firstpractice"
+  ],
+  "author": "Sameer Sarswat <sameersrswt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerrswt/firstPractice/issues"
+  },
+  "homepage": "https://github.com/sameerrswt/firstPractice#readme"
+}
